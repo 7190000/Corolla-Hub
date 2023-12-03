@@ -1,2 +1,3 @@
 # Corolla-Hub
-Corolla Hub Script
+Discord:
+https://discord.gg/spf8NmD5Sh
